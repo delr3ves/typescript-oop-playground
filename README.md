@@ -1,4 +1,4 @@
-# Typescript OOP Playground
+# Typescript OOP Playground ![build status](https://travis-ci.com/delr3ves/typescript-oop-playground.svg?branch=master)
 
 Hi, this is just a really simple project to enjoy learning Object Oriented Programing.
 
