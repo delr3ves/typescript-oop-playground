@@ -4,6 +4,8 @@ Hi, this is just a really simple project to enjoy learning Object Oriented Progr
 
 With this project, I'll try to solve some exercises in order to learn something related with programing.
 
+This project is created in the context of some sessions with a group of students who wanted to learn some core concepts. I created a small diary of each session with them. [You can find the log of each session here](./docs/sessions).
+
 ## Development
 
 We'll use [yarn](https://yarnpkg.com/) as a build system (however you can use npm if you feel more confortable), but take into account the dependencies are just locked for yarn (see [yarn.lock](./yarn.lock) file).
